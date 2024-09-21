@@ -39,3 +39,4 @@ This board is designed for output functionality and includes:
 
 ## Conclusion
 With this DevKit, you will be able to delve into the world of low-power Bluetooth applications, effectively interfacing with various input and output components. You’ll learn to control motors, display information on the OLED screen, and create interactive user experiences using buttons and joysticks. This project serves as the ultimate introduction to embedded systems, combining software and hardware skills for innovative IoT solutions.
+ 
